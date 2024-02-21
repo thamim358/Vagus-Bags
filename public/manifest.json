@@ -1,0 +1,25 @@
+{
+  "short_name": "Vagus Bags",
+  "name": "Vagus Realty stands as a premier full-service real estate firm committed to delivering comprehensive solutions tailored to both residential and commercial construction requirements. Our extensive array of services encompasses various facets, including architecture, interior design, liaison services, and proficient project management. With a dedicated focus on every phase of your project, we ensure meticulous handling, leveraging our expertise and unwavering professionalism",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

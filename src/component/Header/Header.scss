@@ -1,0 +1,60 @@
+.dashboard {
+  // background: url("../img/Top.png");
+  background-size: cover; /* Cover the entire element */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+
+  /* Ensure full page coverage */
+  height: 100vh;
+}
+.photos {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+  }
+  
+  .photo {
+    position: absolute;
+    object-fit: contain; /* Adjust as needed */
+  }
+  
+  .photo.one {
+    grid-column: 4;
+    grid-row: 5;
+  }
+  
+  .photo.two {
+    grid-column: 7;
+    grid-row: 2;
+  }
+  
+.overlay-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0; /* Initial height of 0 to hide the menu */
+  background-color: #ffffff; /* Background color */
+   transition: max-height 0.3s ease-in-out;/* Slower transition for height changes */
+  z-index: 1000;
+  overflow: hidden; /* Hide overflowing content */
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.overlay-menu.open {
+  height: 83%; /* Slide in from the top when open */
+}
+
+.overlay-menu ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+  padding-top: 10%; /* Adjust the padding as needed */
+}
+
+.overlay-menu li {
+  padding: 15px 0;
+}

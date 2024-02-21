@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ceb20e3.css",
+    "main.js": "/static/js/main.05f578db.js",
+    "static/js/787.68de6865.chunk.js": "/static/js/787.68de6865.chunk.js",
+    "static/media/Frame 13.png": "/static/media/Frame 13.73fd29f025a5e8691612.png",
+    "static/media/bag3.jpg": "/static/media/bag3.6ac3bc72a2a850d55e56.jpg",
+    "static/media/bag2.png": "/static/media/bag2.437480d5c04f9a4b0b4e.png",
+    "static/media/quicksand-latin-ext-400-normal.woff": "/static/media/quicksand-latin-ext-400-normal.b9181a59953639a96b74.woff",
+    "static/media/quicksand-latin-400-normal.woff": "/static/media/quicksand-latin-400-normal.a91d68cba4da503ad301.woff",
+    "static/media/quicksand-latin-ext-700-normal.woff": "/static/media/quicksand-latin-ext-700-normal.27abfc4662fba6801d15.woff",
+    "static/media/quicksand-latin-700-normal.woff": "/static/media/quicksand-latin-700-normal.97dc52125e39f489e731.woff",
+    "static/media/quicksand-latin-400-normal.woff2": "/static/media/quicksand-latin-400-normal.c528d5140938c55dd062.woff2",
+    "static/media/quicksand-latin-700-normal.woff2": "/static/media/quicksand-latin-700-normal.4bc8b625064fba4b65e8.woff2",
+    "static/media/quicksand-latin-ext-400-normal.woff2": "/static/media/quicksand-latin-ext-400-normal.10c9dd8b40fe86eec922.woff2",
+    "static/media/quicksand-latin-ext-700-normal.woff2": "/static/media/quicksand-latin-ext-700-normal.43df9154b77514e28f7e.woff2",
+    "static/media/quicksand-vietnamese-400-normal.woff": "/static/media/quicksand-vietnamese-400-normal.4cdf7327385e7acd7f51.woff",
+    "static/media/quicksand-vietnamese-700-normal.woff": "/static/media/quicksand-vietnamese-700-normal.db37954e4e240287346c.woff",
+    "static/media/quicksand-vietnamese-400-normal.woff2": "/static/media/quicksand-vietnamese-400-normal.cba54407c8810c1dc7c0.woff2",
+    "static/media/quicksand-vietnamese-700-normal.woff2": "/static/media/quicksand-vietnamese-700-normal.f24e82a3967b086a30f9.woff2",
+    "index.html": "/index.html",
+    "main.2ceb20e3.css.map": "/static/css/main.2ceb20e3.css.map",
+    "main.05f578db.js.map": "/static/js/main.05f578db.js.map",
+    "787.68de6865.chunk.js.map": "/static/js/787.68de6865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ceb20e3.css",
+    "static/js/main.05f578db.js"
+  ]
+}
